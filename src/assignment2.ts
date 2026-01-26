@@ -2,6 +2,6 @@ let count = 10; // ts infer that count is number because it sees 0. Explicity wr
 let name = "B";
 let isAdmin = false;
 
-console.log(count) 
-console.log(name)
-console.log(isAdmin)
+// console.log(count) 
+// console.log(name)
+// console.log(isAdmin)
